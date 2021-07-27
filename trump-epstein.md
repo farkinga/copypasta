@@ -122,7 +122,7 @@ https://www.theguardian.com/us-news/2019/aug/12/ghislaine-maxwell-woman-accused-
 
 https://www.nbcnews.com/news/us-news/how-british-teen-model-was-lured-jeffrey-epstein-s-web-n1056901
 
-> Trump, 50, who has failed in his bid to secure the services of Princess Diana's butler Paul Burrell, was in search of another British trophy when he met London model Anouska De Georgiou at a party in Manhattan.
+> Trump ... was in search of another British trophy when he met London model Anouska De Georgiou at a party in Manhattan.
 >
 > ...
 >
@@ -174,11 +174,9 @@ https://www.newsweek.com/donald-trump-ghislaine-maxwell-jeffrey-epstein-comments
 
 ---
 
-## Further Reading
+## Links
 
 - [Full Trump-Epstein Timeline](https://thepresidential.medium.com/we-have-been-gaslit-about-donald-trump-and-jeffrey-epstein-for-four-years-fbda67c20f75)
 - [But Clinton](https://www.reddit.com/r/Epstein/comments/n2mups/did_bill_clinton_lie_about_his_ties_to_the)
-
-## Copypasta v0.3
-
-[Copy and paste](https://github.com/farkinga/copypasta/blob/main/trump-epstein.md)
+- [github](https://github.com/farkinga/copypasta/blob/main/trump-epstein.md)
+- [copypasta](https://raw.githubusercontent.com/farkinga/copypasta/main/trump-epstein.md)
