@@ -178,8 +178,7 @@ https://www.newsweek.com/donald-trump-ghislaine-maxwell-jeffrey-epstein-comments
 
 - [Full Trump-Epstein Timeline](https://thepresidential.medium.com/we-have-been-gaslit-about-donald-trump-and-jeffrey-epstein-for-four-years-fbda67c20f75)
 - [But Clinton](https://www.reddit.com/r/Epstein/comments/n2mups/did_bill_clinton_lie_about_his_ties_to_the)
-- [/r/Epstein](https://www.reddit.com/r/Epstein/)
 
 ## Copypasta v0.3
 
-Feel free to copy and paste.
+[Copy and paste](https://github.com/farkinga/copypasta/blob/main/trump-epstein.md)
