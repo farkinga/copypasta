@@ -24,17 +24,17 @@ https://www.youtube.com/watch?v=KLcfpU2cubo
 
 https://www.buzzfeednews.com/article/tasneemnashrulla/trump-epstein-party-tape-mar-a-lago-women
 
-https://media.vanityfair.com/photos/5d24f6c53fbe830009356917/16:9/w_1280,c_limit/jeffrey-epstein-and-donald-trump.jpg
+https://imgur.com/sob2yex
 
-https://grondamorin.files.wordpress.com/2019/07/epstein-trump-at-party-img_0485.jpg
+https://imgur.com/XSXnOzh
 
 ## 2-2. Trump partied with Epstein and Maxwell
 
-https://nypost.com/wp-content/uploads/sites/2/2020/07/trump-epstein-andrew-02.jpg
+https://imgur.com/55m5cDX
 
-https://i.redd.it/e117d4r8bk851.jpg
+https://imgur.com/nQJebKH
 
-https://filmdaily.co/wp-content/uploads/2020/09/trump-epstein-01.jpg
+https://imgur.com/lmtxf6K
 
 ## 2-3. Trump and Epstein partied alone at Mar-a-Lago with two dozen "calendar girls"
 
@@ -130,6 +130,18 @@ https://www.nbcnews.com/news/us-news/how-british-teen-model-was-lured-jeffrey-ep
 
 https://www.thefreelibrary.com/How+suite!+Trump%27s+Brit+of+all+right.-a061140675
 
+## 5-3. Trump and Epstein were accused of raping the same 13-year-old girl
+
+https://www.youtube.com/watch?v=rbFJWo3gdRI
+
+> Defendant Trump initiated sexual contact with Plaintiff at four different parties.
+>
+> ...
+>
+> Defendant Epstein had sexual contact with Plaintiff at two of the parties.
+
+https://www.documentcloud.org/documents/3130729-DOE-V-TRUMP.html
+
 ---
 
 ## 6-1. Trump knew "Jeff" liked "the younger side" as early as 2002
@@ -150,7 +162,7 @@ https://www.youtube.com/watch?v=3dL12m_tl5I
 >
 > "The island was an absolute cesspool."
 
-https://www.the-sun.com/news/1151345/2015-video-donald-trump-reporters-quiz-prince-andrew-about-epsteins-cesspit-pedo-island/
+https://www.the-sun.com/news/1151345/
 
 ## 6-3. Trump sends well wishes to Maxwell in 2020, denies knowledge of Prince Andrew
 
