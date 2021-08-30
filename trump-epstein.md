@@ -18,11 +18,11 @@ https://nymag.com/intelligencer/2019/07/remembering-the-time-jeffrey-epstein-rod
 
 ## 2-1. Trump partied with Epstein
 
-https://www.youtube.com/watch?v=KLcfpU2cubo
-
 > A Video Shows Trump And Jeffrey Epstein Laughing And Discussing Women's Looks At A 1992 Mar-A-Lago Party
 
 https://www.buzzfeednews.com/article/tasneemnashrulla/trump-epstein-party-tape-mar-a-lago-women
+
+https://www.youtube.com/watch?v=KLcfpU2cubo
 
 https://imgur.com/sob2yex
 
@@ -72,7 +72,7 @@ https://www.nytimes.com/2019/07/09/us/politics/trump-epstein.html
 
 ## 4-1. Trump is listed in Epstein's "black book" over a dozen times
 
-https://i.redd.it/7om8yncu1vby.jpg
+https://imgur.com/f87e2lw
 
 ## 4-2. Trump and Epstein fought over Palm Beaches property in 2004
 
@@ -132,8 +132,6 @@ https://www.thefreelibrary.com/How+suite!+Trump%27s+Brit+of+all+right.-a06114067
 
 ## 5-3. Trump and Epstein were accused of raping the same 13-year-old girl
 
-https://www.youtube.com/watch?v=rbFJWo3gdRI
-
 > Defendant Trump initiated sexual contact with Plaintiff at four different parties.
 >
 > ...
@@ -141,6 +139,8 @@ https://www.youtube.com/watch?v=rbFJWo3gdRI
 > Defendant Epstein had sexual contact with Plaintiff at two of the parties.
 
 https://www.documentcloud.org/documents/3130729-DOE-V-TRUMP.html
+
+https://www.youtube.com/watch?v=rbFJWo3gdRI
 
 ---
 
@@ -152,8 +152,6 @@ https://www.foxnews.com/politics/trump-says-he-was-not-a-fan-of-jeffrey-epstein-
 
 ## 6-2. Trump knew about Prince Andrew and Epstein as early as 2015
 
-https://www.youtube.com/watch?v=3dL12m_tl5I
-
 > Trump had a wide-ranging interview with Bloomberg at a time when he was about to announce he would run for president.
 >
 > Five years ago, he was asked about Epstein after further allegations were made public, including alleged sexual abuse that took place on the disgraced pervert's private Caribbean island, Little St James, part of the US Virgin Islands.
@@ -164,13 +162,15 @@ https://www.youtube.com/watch?v=3dL12m_tl5I
 
 https://www.the-sun.com/news/1151345/
 
-## 6-3. Trump sends well wishes to Maxwell in 2020, denies knowledge of Prince Andrew
+https://www.youtube.com/watch?v=3dL12m_tl5I
 
-https://www.youtube.com/watch?v=VW0TgHh8uYo
+## 6-3. Trump sends well wishes to Maxwell in 2020, denies knowledge of Prince Andrew
 
 > "I just wish her well, frankly. I've met her numerous times over the years, especially since I lived in Palm Beach and I guess they lived in Palm Beach. But I wish her well, whatever it is. I don't know the situation with Prince Andrew, I just don't know. Not aware of it."
 
 https://www.independent.co.uk/news/world/americas/us-politics/trump-ghislaine-maxwell-prince-andrew-jeffrey-epstein-sex-trafficking-a9631351.html
+
+https://www.youtube.com/watch?v=VW0TgHh8uYo
 
 ## 6-4. Trump considered pardon for Maxwell
 
