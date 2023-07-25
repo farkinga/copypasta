@@ -100,8 +100,8 @@ Thus, it feels cooler than it really is.
 At 7pm, off-peak rates start in Ontario and energy is the cheapest to use.
 The next 12 hours will be the best time to cool the house so it can reset the indoor temperature and get a head-start on the following day.
 
-Because the thermostat temperature is dropping from 79F-77F/26C-25C, this will be perceived as cool and refreshing.
-If the temperature drops too much, it actually becomes uncomfortably cold.
+Because the thermostat temperature is dropping from 79F to 77F (26C to 25C), this will be perceived as cool and refreshing.
+If the temperature drops too much too quickly, it actually becomes uncomfortably cold.
 At this time of day - and as long as everyone is still awake - it's better to keep this drop within a few degrees.
 The AC begins lowering the temperature at this time and it is likely to run constantly - possibly for several hours.
 This means cold air will be constantly circulating during this period and things are experienced as cooling off dramatically.
