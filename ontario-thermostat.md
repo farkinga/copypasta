@@ -15,6 +15,33 @@ Program your thermostat for the following
 - If you like to put the AC on "max" whenever you want it "on" then swing it the other way to turn it off, it's possible you're not even as comfortable as you could be, all while wasting money.
 - If you want to reduce your energy consumption because you're concerned about climate change, this might give you some ideas.
 
+## Programmable Thermostats
+
+The following links can help you to get started.
+
+### How to program a thermostat
+
+- https://www.youtube.com/watch?v=uun8HJhM3h4
+- https://www.youtube.com/watch?v=izEcRomoetY
+- https://www.youtube.com/results?search_query=how+to+program+a+thermostat
+
+### How to buy a programmable thermostat
+
+The most affordable thermostat that is programmable will cost about 40 CAD - and in most cases, that's all that is required.
+
+- [Home Hardware](https://www.homehardware.ca/en/search?query=programmable+thermostat&page=category+page)
+- [Home Depot](https://www.homedepot.ca/en/home/categories/appliances/heating-cooling-and-air-quality/thermostats.html?q=*:relevance:categoryPathHierarchy:3%2Fhd-classes%2Fl1-appliances%2Fl2-heatingcoolingvent%2Fl3-thermostats2016:attributeidHCProge2017:Yes)
+- [Rona](https://www.rona.ca/webapp/wcs/stores/servlet/RonaAjaxCatalogSearchView?catalogId=10051&langId=-1&keywords=Thermostats&navDescriptors=1000318202&searchKey=RonaEN&selectedTerm=products%3AThermostats&selectedTermPosition=1&searchType=keyword_predictive)
+- [Canadian Tire](https://www.canadiantire.ca/en/cat/home-pets/heating-cooling-air-quality/controls-accessories/thermostats-DC0000839.html?count=40;experience=category;lang=en_CA;q1=DC0000839;q2=Programmable;rq=thermostat;store=389;x1=ast-id-level-4;x2=PS_MDM_PROGRAMMABLE_CD.sku)
+- https://www.youtube.com/watch?v=tNnGMbfZf5A
+- https://www.youtube.com/watch?v=PjaVqu1A-dU
+
+### How to install a thermostat
+
+- https://www.youtube.com/watch?v=La9IyRWrRVk
+- https://www.youtube.com/watch?v=JGAvTG55iQs
+- https://www.youtube.com/watch?v=La9IyRWrRVk
+
 ## Facts about thermostats, temperature, and feeling cool
 
 Consider how the following facts could make you happier and more comfortable:
@@ -58,13 +85,14 @@ The optimal thermostat schedule takes into account the following:
 - feeling comfortable, cool; better than it feels outdoors
 - your life's schedule: wake, sleep, home, away
 
-Given those considerations, use the following schedule as a template for finding your own optimal schedule:
+Every situation is different and these will all vary on an individual basis.
+Given those considerations, use the following schedule as a starting template for finding your own optimal schedule:
 
 ### 12am: 73 F; 23 C
 
 We start the day by targeting a comfortable temperature.
 Since it's midnight, the electricity prices are at their lowest - and it's affordable to cool the home to this temperature.
-Also, since the night is when the outdoor temperatures are lowest, the least energy is required to reach the target indoor temperature because, compared to the outside, the temperature difference is at its lowest.
+Also, since night is when outdoor temperatures are lowest, the least energy is required to reach the target indoor temperature because the temperature difference is at its lowest, compared to the outside.
 
 This is a good time of day to drop the temperature in the home substantially because we are usually sleeping.
 Whenever the temperature falls so much, we perceive the dramatic drop as being cold - not just cool - and it can actually be uncomfortable to sit with the AC blowing on you for hours at a time.
@@ -74,7 +102,7 @@ However, when this happens overnight, the temperature drop can actually feel rea
 
 At 7am, Ontario switches to mid-peak rates, which are more expensive than overnight off-peak rates.
 At this point, we set the temperature to a value that will be higher than the outdoors temperature for most of the day.
-Because the house was cooled overnight to 73F/23C, and because the outdoor temperature is also cool at the start of the day, it takes many hours before the indoor temperature starts to rise.
+Because the house was cooled overnight to 73F/23C, and because the outdoor temperature is also cool at the start of the day, it takes several hours before the indoor temperature starts to rise.
 This means the home remains a comfortable temperature for many mid-peak/on-peak hours without the AC running at all.
 
 It might not be until the late afternoon for the thermostat to reach the set temperature, at which point the AC turns on.
@@ -105,47 +133,12 @@ Because the thermostat turns on the AC to lower the temperature from 79F to 77F 
 If the temperature drops too much too quickly, it can even feel uncomfortably cold because the AC just keeps blowing cold air on you.
 As long as everyone is still awake, it's usually more comfortable to limit the size of this drop.
 
-## Programming
-
-Your next step depends on your current situation:
-
-1. program your thermostat right now
-2. buy a programmable thermostat - and then program it!
-3. if renting, ask property management to install a programmable thermostat
-4. if renting with old-fashioned HVAC that can't be controlled, hopefully commenters can share helpful suggestions for this
-
-### How to program a thermostat
-
-The following links can help you to get started.
-
-- https://www.youtube.com/watch?v=uun8HJhM3h4
-- https://www.youtube.com/watch?v=izEcRomoetY
-- https://www.youtube.com/results?search_query=how+to+program+a+thermostat
-
-### How to buy a programmable thermostat
-
-The following links can help you to get started.
-
-- [Home Hardware](https://www.homehardware.ca/en/search?query=programmable+thermostat&page=category+page)
-- [Home Depot](https://www.homedepot.ca/en/home/categories/appliances/heating-cooling-and-air-quality/thermostats.html?q=*:relevance:categoryPathHierarchy:3%2Fhd-classes%2Fl1-appliances%2Fl2-heatingcoolingvent%2Fl3-thermostats2016:attributeidHCProge2017:Yes)
-- [Rona](https://www.rona.ca/webapp/wcs/stores/servlet/RonaAjaxCatalogSearchView?catalogId=10051&langId=-1&keywords=Thermostats&navDescriptors=1000318202&searchKey=RonaEN&selectedTerm=products%3AThermostats&selectedTermPosition=1&searchType=keyword_predictive)
-- [Canadian Tire](https://www.canadiantire.ca/en/cat/home-pets/heating-cooling-air-quality/controls-accessories/thermostats-DC0000839.html?count=40;experience=category;lang=en_CA;q1=DC0000839;q2=Programmable;rq=thermostat;store=389;x1=ast-id-level-4;x2=PS_MDM_PROGRAMMABLE_CD.sku)
-- https://www.youtube.com/watch?v=tNnGMbfZf5A
-- https://www.youtube.com/watch?v=PjaVqu1A-dU
-
-The most affordable thermostat that is programmable will cost about 40 CAD - and in most cases, that's all that is required.
-
-### How to install a thermostat
-
-The following links can help you get started.
-
-- https://www.youtube.com/watch?v=La9IyRWrRVk
-- https://www.youtube.com/watch?v=JGAvTG55iQs
-- https://www.youtube.com/watch?v=La9IyRWrRVk
-
 ## Conclusion
 
-If you finished this, congratulations.  You now understand air conditioning, what makes you feel comfortable, and how you can program a thermostat to feel good. You can expect that if you reduce your energy consumption - or even merely shift your energy consumption to the night - then you will probably save money.
+If you finished this, congratulations.
+You now understand air conditioning, what makes you feel comfortable, and how you can program a thermostat to feel good.
+You can expect that if you reduce your energy consumption - or even merely shift your energy consumption to the night - then you will probably save money.
+And finally, for those seeking practical and immediate ways to reduce energy consumption, getting control of your home temperature with a programmable thermostat is a great way to start.
 
 ## Sharing
 
