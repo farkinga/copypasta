@@ -4,10 +4,10 @@ If you could make the entire rest of your summer better, just by spending 5 minu
 
 Program your thermostat for the following
 
+- 12am: 73 F; 23 C
 - 7am: 78 F; 25.5C
 - 5pm: 79 F; 26 C
 - 7pm: 77 F; 25 C
-- 12am: 73 F; 23 C
 
 ## Who should read this?
 
@@ -60,27 +60,51 @@ The optimal thermostat schedule takes into account the following:
 
 Given those considerations, use the following schedule as a template for finding your own optimal schedule:
 
+### 12am: 73 F; 23 C
+
+We start the day by targeting a comfortable temperature.
+Since it's midnight, the electricity prices are at their lowest - and it's affordable to cool the home to this temperature.
+Also, since the night is when the outdoor temperatures are lowest, the least energy is required to reach the target indoor temperature because, compared to the outside, the temperature difference is at its lowest.
+
+This is a good time of day to drop the temperature in the home substantially because we are usually sleeping.
+Whenever the temperature falls so much, we perceive the dramatic drop as being cold - not just cool - and it can actually be uncomfortable to sit with the AC blowing on you for hours at a time.
+However, when this happens overnight, the temperature drop can actually feel really nice.
+
 ### 7am: 78 F; 25.5C
 
-At 7am, Ontario switches to mid-peak rates. Setting the temperature to a value that is usually higher than the outdoor temperature ensures the AC is off during the morning.
+At 7am, Ontario switches to mid-peak rates, which are more expensive than overnight off-peak rates.
+At this point, we set the temperature to a value that will be higher than the outdoors temperature for most of the day.
+Because the house was cooled overnight to 73F/23C, and because the outdoor temperature is also cool at the start of the day, it takes many hours before the indoor temperature starts to rise.
+This means the home remains a comfortable temperature for many mid-peak/on-peak hours without the AC running at all.
 
-Since Ontario charges peak rates from 11am-5pm, it is the most expensive time to use the air conditioner. During the afternoon, the higher thermostat setting ensures the indoor temperature is cooler than outdoors, while reducing the energy the AC must expend to maintain the target temperature. This also minimizes AC costs while maintaining comfort.
+It might not be until the late afternoon for the thermostat to reach the set temperature, at which point the AC turns on.
+Even though 78F/22.5C would otherwise feel uncomfortable, when the AC starts blowing cold air throughout the home, it feels much cooler than 78F/22.5C.
+Therefore, the actual feeling/experience of 78F ambient temperature, along with cold AC blowing, is comfortable.
+You'd probably tolerate these conditions at the beach - and in fact 78F/22.5C with a cold breeze is a beautiful summer day.
+
+Since Ontario charges peak rates from 11am-5pm, it is the most expensive time to use the air conditioner.
+During the afternoon, the higher thermostat setting ensures the indoor temperature is still cooler than outdoors, while reducing the energy the AC must expend to maintain the target temperature.
+As long as the outdoor temperature is higher than 78F/22.5C, it will always feel cooler indoors.
+This minimizes energy use and cost without completely sacrificing comfort.
 
 ### 5pm: 79 F; 26 C
 
-Ontario switches back to mid-peak rates at 5pm. Meanwhile, this is the time of day when kitchens are creating heat indoors, which makes it that much harder for the AC to keep things cool inside. So, raising the target temperature slightly can reduce the energy load without a serious reduction in comfort.
+Ontario switches back to mid-peak rates at 5pm.
+Meanwhile, this is the time of day when kitchens are creating heat indoors, which makes it that much harder for the AC to keep things cool inside.
+For this specific period, raising the target temperature can reduce the energy load without a serious reduction in comfort.
+Also, since the AC is likely to run almost constantly during this time of day, consider that cool air will be circulating throughout the home.
+Thus, it feels cooler than it really is.
 
 ### 7pm: 77 F; 25 C
 
-At 7pm, off-peak rates start in Ontario and energy is the cheapest to use. The next 12 hours will be the best time to cool the house so it can reset the indoor temperature and get a head-start on the following day.
+At 7pm, off-peak rates start in Ontario and energy is the cheapest to use.
+The next 12 hours will be the best time to cool the house so it can reset the indoor temperature and get a head-start on the following day.
 
-Because the thermostat temperature is dropping from 79F-77F/26C-25C, this will be perceived as cool and refreshing. If the temperature drops too much, it actually becomes uncomfortably cold.  Thus, at this time of day, it's better to target 77F/25C instead of a much lower temperature.
-
-### 12am: 73 F; 23 C
-
-Finally, it's time to really cool things off.  We have 7 hours until the electricity rates change again. At this point in the night, it's possible to drop the temperature by a lot, all at once, since we are usually sleeping and we won't really notice it.  And sometimes, it feels good at night for things to feel cool.
-
-Since the night is when the outdoor temperature are lowest, the least energy is required to reach the target indoor temperature because, compared to the outside, the temperature difference is at its lowest.
+Because the thermostat temperature is dropping from 79F-77F/26C-25C, this will be perceived as cool and refreshing.
+If the temperature drops too much, it actually becomes uncomfortably cold.
+At this time of day - and as long as everyone is still awake - it's better to keep this drop within a few degrees.
+The AC begins lowering the temperature at this time and it is likely to run constantly - possibly for several hours.
+This means cold air will be constantly circulating during this period and things are experienced as cooling off dramatically.
 
 ## Programming
 
