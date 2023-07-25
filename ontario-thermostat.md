@@ -126,4 +126,4 @@ If you finished this, congratulations.  You now understand air conditioning, wha
 
 ## Sharing
 
-- [Copypasta on Github]()
+- [Copypasta on Github](https://github.com/farkinga/copypasta/blob/main/ontario-thermostat.md)
