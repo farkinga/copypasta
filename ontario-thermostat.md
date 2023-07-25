@@ -1,11 +1,5 @@
 If you could make the entire rest of your summer better, just by spending 5 minutes to program your thermostat, would you do it?
 
-## Who should read this?
-
-- If you set your thermostat at one temperature all summer, you might be spending more on electricity than you need to. 
-- If you like to put the AC on "max" whenever you want it "on" then swing it the other way to turn it off, it's possible you're not even as comfortable as you could be, all while wasting money.
-- If you want to reduce your energy consumption because you're concerned about climate change, this might give you some ideas.
-
 ## tldr
 
 Program your thermostat for the following
@@ -14,6 +8,12 @@ Program your thermostat for the following
 - 5pm: 79 F; 26 C
 - 7pm: 77 F; 25 C
 - 12am: 73 F; 23 C
+
+## Who should read this?
+
+- If you set your thermostat at one temperature all summer, you might be spending more on electricity than you need to. 
+- If you like to put the AC on "max" whenever you want it "on" then swing it the other way to turn it off, it's possible you're not even as comfortable as you could be, all while wasting money.
+- If you want to reduce your energy consumption because you're concerned about climate change, this might give you some ideas.
 
 ## Facts about thermostats, temperature, and feeling cool
 
