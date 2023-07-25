@@ -19,6 +19,7 @@ Then gradually change the schedule over the next few days - until you are comfor
 
 ## Programmable Thermostats
 
+For this howto guide, you will need a programmable thermostat.
 The following links can help you to get started.
 
 ### How to program a thermostat
