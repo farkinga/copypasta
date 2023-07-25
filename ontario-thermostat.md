@@ -144,4 +144,4 @@ And finally, for those seeking practical and immediate ways to reduce energy con
 
 ## Sharing
 
-- [Copypasta on Github](https://github.com/farkinga/copypasta/blob/main/ontario-thermostat.md)
+- [Copypasta on Github](https://raw.githubusercontent.com/farkinga/copypasta/main/ontario-thermostat.md)
