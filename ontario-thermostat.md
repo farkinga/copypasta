@@ -2,12 +2,14 @@ If you could make the entire rest of your summer better, just by spending 5 minu
 
 ## tldr
 
-Program your thermostat for the following
+Program your thermostat for the following:
 
 - 12am: 73 F; 23 C
 - 7am: 78 F; 25.5C
 - 5pm: 79 F; 26 C
 - 7pm: 77 F; 25 C
+
+Then gradually change the schedule over the next few days - until you are comfortable.
 
 ## Who should read this?
 
