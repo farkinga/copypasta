@@ -103,14 +103,16 @@ However, when this happens overnight, the temperature drop can actually feel rea
 ### 7am: 78 F; 25.5C
 
 At 7am, Ontario switches to mid-peak rates, which are more expensive than overnight off-peak rates.
-At this point, we set the temperature to a value that will be higher than the outdoors temperature for most of the day.
+During this time, many people are away for work until 5pm - so it just wastes energy and money to cool the home when nobody is in it.
+
+At 7am, we set the temperature to a value that will be higher than the outdoors temperature for most of the day.
 Because the house was cooled overnight to 73F/23C, and because the outdoor temperature is also cool at the start of the day, it takes several hours before the indoor temperature starts to rise.
 This means the home remains a comfortable temperature for many mid-peak/on-peak hours without the AC running at all.
 
 It might not be until the late afternoon for the thermostat to reach the set temperature, at which point the AC turns on.
 Even though 78F/22.5C would otherwise feel uncomfortable, when the AC starts blowing cold air throughout the home, it feels much cooler than 78F/22.5C.
 Therefore, the actual feeling/experience of 78F ambient temperature, along with cold AC blowing, is comfortable.
-You'd probably tolerate these conditions at the beach - and in fact 78F/22.5C with a cold breeze is a beautiful summer day.
+You'd probably tolerate these conditions at the beach - and for many, 78F/22.5C with a cold breeze is a beautiful summer day.
 
 Since Ontario charges peak rates from 11am-5pm, it is the most expensive time to use the air conditioner.
 During the afternoon, the higher thermostat setting ensures the indoor temperature is still cooler than outdoors, while reducing the energy the AC must expend to maintain the target temperature.
