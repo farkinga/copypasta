@@ -1,4 +1,6 @@
-If you could make the entire rest of your summer better, just by spending 5 minutes to program your thermostat, would you do it?
+# Howto program your thermostat for the summer: Stay cool while saving money and energy
+
+If you could make the rest of your summer better, just by spending 5 minutes to program your thermostat, would you do it?
 
 ## tldr
 
@@ -21,16 +23,12 @@ Then gradually change the schedule over the next few days - until you are comfor
 
 For this howto guide, you will need a programmable thermostat.
 The following links can help you to get started.
-
-### How to program a thermostat
-
-- https://www.youtube.com/watch?v=uun8HJhM3h4
-- https://www.youtube.com/watch?v=izEcRomoetY
-- https://www.youtube.com/results?search_query=how+to+program+a+thermostat
+This guide was written for Ontario (Canada) but the general idea will work in many countries.
 
 ### How to buy a programmable thermostat
 
-The most affordable thermostat that is programmable will cost about 40 CAD - and in most cases, that's all that is required.
+The most affordable thermostat that is programmable will cost about 40 CAD.
+In most cases, that's all that is required.
 
 - [Home Hardware](https://www.homehardware.ca/en/search?query=programmable+thermostat&page=category+page)
 - [Home Depot](https://www.homedepot.ca/en/home/categories/appliances/heating-cooling-and-air-quality/thermostats.html?q=*:relevance:categoryPathHierarchy:3%2Fhd-classes%2Fl1-appliances%2Fl2-heatingcoolingvent%2Fl3-thermostats2016:attributeidHCProge2017:Yes)
@@ -41,43 +39,77 @@ The most affordable thermostat that is programmable will cost about 40 CAD - and
 
 ### How to install a thermostat
 
+Installing a thermostat is a relatively simple home DIY project.
+Often times, the only tool required is a screwdriver.
+
 - https://www.youtube.com/watch?v=La9IyRWrRVk
 - https://www.youtube.com/watch?v=JGAvTG55iQs
 - https://www.youtube.com/watch?v=La9IyRWrRVk
+
+### How to program a thermostat
+
+Cheaper thermostats tend to have fewer features - and they can actually be simpler to program, as a result.
+It may be as simple as pressing "set", "up", and "down" to program the disired times and temperatures.
+
+- https://www.youtube.com/watch?v=uun8HJhM3h4
+- https://www.youtube.com/watch?v=izEcRomoetY
+- https://www.youtube.com/results?search_query=how+to+program+a+thermostat
 
 ## Facts about thermostats, temperature, and feeling cool
 
 Consider how the following facts could make you happier and more comfortable:
 
-Fact 1. Ontario - and others - charge different rates for electricity depending on when it is used. This means that the same task can cost more or less if you do it at a certain time of the day. Here is the Ontario electricity price/time schedule: https://www.oeb.ca/sites/default/files/rpp-graphics-tou-en.png
+Fact 1. Ontario - and other regions - charge different rates for electricity depending on when it is used.
+This means that the same task can cost more or less if you do it at a certain time of the day.
+Here is the Ontario electricity price/time schedule: https://www.oeb.ca/sites/default/files/rpp-graphics-tou-en.png
 
-Fact 2. You feel cool when water evaporates off your skin. This means that what actually makes you feel good isn't a specific number on the thermostat; it's whether your body can cool off or not.
+Fact 2. You feel cool when water evaporates off your skin.
+This means that what actually makes you feel good isn't a specific number on the thermostat; it's whether your body can cool off or not.
 
-Fact 3. Moving air increases evaporation. Fans feel good because they move air across your skin. When your air condition is actively blowing cool air, it feels even cooler because it's moving.
+Fact 3. Moving air increases evaporation. Fans feel good because they move air across your skin.
+When your air condition is actively blowing cool air, it feels even cooler because it's moving.
 
-Fact 4. Humidity decreases evaporation; when there is already water in the air, it makes it harder for water to evaporate into it. This means that it is harder to sweat when the air is humid, so you feel hotter than the temperature would feel if it were less humid.
+Fact 4. Humidity decreases evaporation; when there is already water in the air, it makes it harder for water to evaporate into it.
+This means that it is harder to sweat when the air is humid, so you feel hotter than the temperature would feel if it were less humid.
 
-Fact 5. Air conditioners reduce humidity, which makes your skin feel cooler than the temperature otherwise would. When humid air is cooled, water condenses onto cooler surfaces, creating a puddle in/around your air conditioner's condenser unit; this is good.
+Fact 5. Air conditioners reduce humidity, which makes your skin feel cooler than the temperature otherwise would.
+When humid air is cooled, water condenses onto cooler surfaces, creating a puddle in/around your air conditioner's condenser unit; this is good.
 
-Fact 6. Your thermostat turns the AC on when the temperature is higher than the number you set it to. When the AC turns on, it gradually lowers the ambient temperature until the thermostat reads a value that is lower than the set value, at which point the thermostat turns off the AC. This happens automatically.
+Fact 6. Your thermostat turns the AC on when the temperature is higher than the number you set it to.
+When the AC turns on, it gradually lowers the ambient temperature until the thermostat reads a value that is lower than the set value, at which point the thermostat turns off the AC.
+This happens automatically.
 
 Fact 7. When the outside temperature is hotter than the temperature inside the house, then the house will eventually become the same temperature as outside - or even hotter.
 
-Fact 8. The greater the temperature difference between indoors and outdoors, the more energy that must be expended to cool the indoors. When they are the same temperature, it requires no energy to maintain the indoor temperature.  As the outside temperature increases, it starts to require electricity for Air Conditioning to maintain a specific indoor temperature.
+Fact 8. The greater the temperature difference between indoors and outdoors, the more energy that must be expended to cool the indoors.
+When they are the same temperature, it requires no energy to maintain the indoor temperature.
+As the outside temperature increases, it starts to require electricity for Air Conditioning to maintain a specific indoor temperature.
 
-Fact 9. The more extreme the thermostat temperature setting, the more difficult it becomes to maintain that setting. This means some temperature settings are actually impossible to reach. When the AC runs 24/7, that's the maximum cooling it can provide. If the thermostat is set to a value even lower than whatever the AC can achieve, then that temperature is impossible.
+Fact 9. The more extreme the thermostat temperature setting, the more difficult it becomes to maintain that setting.
+This means some temperature settings are actually impossible to reach.
+When the AC runs 24/7, that's the maximum cooling it can provide.
+If the thermostat is set to a value even lower than whatever the AC can achieve, then that temperature is impossible.
 
-Fact 10. Any time the ambient temperature is lowered, it feels cool to our skin. This means that if it's 27C outside, then 26C indoors will actually feel cool. As long as the indoor temperature is ANY lower temperature than outdoors, it will feel cool to walk indoors.
+Fact 10. Any time the ambient temperature is lowered, it feels cool to our skin.
+This means that if it's 27C outside, then 26C indoors will actually feel cool.
+As long as the indoor temperature is ANY lower temperature than outdoors, it will feel cool to walk indoors.
 
-Fact 11. Any time the AC turns on, it will feel cool. The simple act of the AC turning on is going to immediately change the sensation of the indoor air. This means that changing the thermostat temperature to a colder value will be immediately perceived and felt as a cool breeze.
+Fact 11. Any time the AC turns on, it will feel cool.
+The simple act of the AC turning on is going to immediately change the sensation of the indoor air.
+This means that changing the thermostat temperature to a colder value will be immediately perceived and felt as a cool breeze.
 
-Fact 12. The outdoor temperature changes throughout the day due to heat from the sun. Since the sun follows a pattern, the temperature also follows a pattern - and we can take advantage of this to predict what will happen on a regular schedule.
+Fact 12. The outdoor temperature changes throughout the day due to heat from the sun.
+Since the sun follows a pattern, the temperature also follows a pattern - and we can take advantage of this to predict what will happen on a regular schedule.
 
-Fact 13. In order to guarantee the indoor temperature is lower than the outdoor temperature, the thermostat must be changed periodically throughout the day. Since the outdoor temperature constantly changes, then if the indoor thermostat is never changed, it might end up "out of sync" with whatever the weather is actually like.
+Fact 13. In order to guarantee the indoor temperature is lower than the outdoor temperature, the thermostat must be changed periodically throughout the day.
+Since the outdoor temperature constantly changes, then if the indoor thermostat is never changed, it might end up "out of sync" with whatever the weather is actually like.
 
-Fact 14. A basic programmable thermostat can set the temperature to different values at different times of day. This makes it possible to use a time-based schedule to control what happens to the temperature in your house throughout the day.
+Fact 14. A basic programmable thermostat can set the temperature to different values at different times of day.
+This makes it possible to use a time-based schedule to control what happens to the temperature in your house throughout the day.
 
-Fact 15. There is an optimal thermostat schedule for YOUR house, region, time of year, etc, which is better than any other possible schedule. It's easy to imagine how the thermostat can be "badly" programmed. So, the opposite is also true: it could be programmed "well."
+Fact 15. There is an optimal thermostat schedule for YOUR house, region, time of year, etc, which is better than any other possible schedule.
+It's easy to imagine how the thermostat can be "badly" programmed.
+So, the opposite is also true: it could be programmed "well."
 
 ## Applying the Facts
 
