@@ -1,0 +1,25 @@
+title: Copypasta
+description: farkinga's copypasta
+# baseurl: "/copypasta" # the subpath of your site, e.g. /blog
+url: "https://farkinga.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username: farkinga
+
+include: ["_pages", "_root"]
+exclude: ["docs", "Readme.md", "Todo.md", "Makefile", "vendor", "Gemfile", "Gemfile.lock"]
+
+# Build settings
+gems:
+  - jekyll-sitemap
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

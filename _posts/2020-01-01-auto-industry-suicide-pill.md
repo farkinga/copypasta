@@ -1,4 +1,7 @@
-# The Auto Industry Suicide Pill
+---
+layout:     post
+title:      The Auto Industry Suicide Pill
+---
 
 We've constructed a substantial economy around cars, their fuel, and their infrastructure. Like, a REALLY big economy. And it's fundamentally bankrupt; it doesn't stand on its own merits. The only way to make it work is at scale - and that requires massive overhead, like regulations, actual warfare to acquire resources, and propaganda like we've never seen. For example, Big Oil spent DECADES paying scientists to argue climate change wasn't partly attributable to fossil fuels.
 
