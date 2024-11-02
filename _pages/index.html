@@ -4,10 +4,12 @@ title:      Home
 permalink:  /
 ---
 
-<ul>
+<ul class="index">
   {% for post in site.posts %}
     {% if post.title %}
-      <li><a href="{{ post.url | prepend: site.baseurl }}" class="post-link">{{ post.title }}</a></li>
+      <li>
+        {{ post.date | date: "%Y-%m-%d" }} <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">{{ post.title }}</a>
+      </li>
     {% endif %}
   {% endfor %}
 </ul>
