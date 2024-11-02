@@ -1,4 +1,7 @@
-# Donald Trump and Jeffrey Epstein were friends for years
+---
+layout:     post
+title:      Donald Trump and Jeffrey Epstein were friends for years
+---
 
 ## 1-1. Trump flew on Epstein's plane
 
@@ -191,4 +194,4 @@ https://www.newsweek.com/donald-trump-ghislaine-maxwell-jeffrey-epstein-comments
 - [Full Trump-Epstein Timeline](https://thepresidential.medium.com/we-have-been-gaslit-about-donald-trump-and-jeffrey-epstein-for-four-years-fbda67c20f75)
 - [But Clinton](https://www.reddit.com/r/Epstein/comments/n2mups/did_bill_clinton_lie_about_his_ties_to_the)
 - [github](https://github.com/farkinga/copypasta/blob/main/trump-epstein.md)
-- [copypasta](https://raw.githubusercontent.com/farkinga/copypasta/main/trump-epstein.md)
+- [copypasta](https://raw.githubusercontent.com/farkinga/copypasta/main/_posts/2021-01-01-trump-epstein.md)

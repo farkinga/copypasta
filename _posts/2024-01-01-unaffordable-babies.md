@@ -1,4 +1,7 @@
-# Unaffordable Babies
+---
+layout:     post
+title:      Unaffordable Babies
+---
 
 I'm seeing a bunch of comments about having a baby without being able to "afford" it.
 

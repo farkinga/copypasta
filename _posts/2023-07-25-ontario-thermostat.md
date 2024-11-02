@@ -1,4 +1,9 @@
-# Howto program your thermostat for the summer: Stay cool while saving money and energy
+---
+layout:     post
+title:      Howto program your thermostat for the summer
+---
+
+## Stay cool while saving money and energy
 
 If you could make the rest of your summer better, just by spending 5 minutes to program your thermostat, would you do it?
 

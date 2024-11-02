@@ -1,4 +1,7 @@
-# The Bushes were Friends with the Saudis
+---
+layout:     post
+title:      The Bushes were Friends with the Saudis
+---
 
 There's two kinds of conspiracy theorists here:
 
