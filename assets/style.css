@@ -43,15 +43,19 @@ footer {
   color: white;
 }
 
-.post-content, .page-content {
-  font-size: 1.2em;
+.page-content {
+  font-size: 1.3em;
   margin: 2em auto;
-  max-width: 50em;
+  max-width: 45em;
   padding: 0 1em;
 }
 
 img {
   max-width:100%;
+}
+
+ul.index {
+  list-style-type: none;
 }
 
 ul.index li {
