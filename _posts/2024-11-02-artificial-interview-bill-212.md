@@ -3,6 +3,16 @@ layout:     post
 title:      Artificial Interview with Bill-212
 ---
 
+The following is an "Artificial Interview" with an AI Language Model that was given the fulltext of Ontario Bill-212.
+The fulltext of Bill 212 was extracted from the online PDF using `docling`.
+The interview was conducted using a variation of a language model called `Mistral Nemo`.
+The language model was provided with Bill 212 fulltext before the interview questions ("context injection").
+
+AI language models are inherently messy and they sometimes "hallucinate" things that are simply not true.
+Then again, politicians have sometimes said things that aren't true - knowingly - so at least the AI is comparatively without alterior motives.
+This Artificial Interview may therefore contain inaccuracies.
+The Language Model's answers are unedited.
+
 ## Summarize Bill 212
 
 Bill 212, also known as the Reducing Gridlock Act, is a proposed legislation in Ontario that aims to speed up highway construction projects and reduce gridlock on major highways by streamlining processes, increasing efficiency, and providing ministerial discretion to override certain laws and regulations. Some key provisions of the bill include:
