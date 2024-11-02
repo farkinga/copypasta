@@ -1,4 +1,7 @@
-# The Car Culture War is Fatiguing
+---
+layout:     post
+title:      The Car Culture War is Fatiguing
+---
 
 I think there are easily hundreds of thousands, if not millions, of GTA peeps just like you who don't care about the culture war aspect.
 
@@ -14,9 +17,9 @@ So if you got the impression it was all complaining and no action, I would under
 
 Most people are probably like you: the culture wars are just noise. But when it comes to the size of the pro-bike community, there are three adversaries:
 
-    the anti-bike community: these are not serious people; they are a fringe minority of unhinged individuals. These culture warriors overlap with anti-vaxxers and other conspiracy noise.
-    the pro-car community: this is an actual constituency but there aren't too many people who believe this strongly enough to build a political enterprise around it. But, these people enjoy amplification by the media thanks to the next group.
-    industrial players: car manufacture, road construction, etc. There is money in opposing bike lanes and transit insofar as it's a zero sum proposition. There are MANY people who work full time, year round, to ensure their projects are started and other projects are cancelled. This is a real lobbying force and, with billions on the line, it is extremely powerful.
+- the anti-bike community: these are not serious people; they are a fringe minority of unhinged individuals. These culture warriors overlap with anti-vaxxers and other conspiracy noise.
+- the pro-car community: this is an actual constituency but there aren't too many people who believe this strongly enough to build a political enterprise around it. But, these people enjoy amplification by the media thanks to the next group.
+- industrial players: car manufacture, road construction, etc. There is money in opposing bike lanes and transit insofar as it's a zero sum proposition. There are MANY people who work full time, year round, to ensure their projects are started and other projects are cancelled. This is a real lobbying force and, with billions on the line, it is extremely powerful.
 
 So that's the landscape. Bike advocacy is framed as "complaining" because that's one way to undermine a movement; it's straight-up propaganda designed to remove political agency from a voting constituency. It's not fair, it's not democratic, but it's the reality of making progress in Toronto and around the world.
 
