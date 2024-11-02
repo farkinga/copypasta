@@ -9,7 +9,7 @@ The interview was conducted using a variation of a language model called `Mistra
 The language model was provided with Bill 212 fulltext before the interview questions ("context injection").
 
 AI language models are inherently messy and they sometimes "hallucinate" things that are simply not true.
-Then again, politicians have sometimes said things that aren't true - knowingly - so at least the AI is comparatively without alterior motives.
+Then again, politicians have sometimes said things that aren't true - knowingly - so at least the AI is comparatively without ulterior motives.
 This Artificial Interview may therefore contain inaccuracies.
 The Language Model's answers are unedited.
 
