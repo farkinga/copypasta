@@ -1,4 +1,7 @@
-# The Kids' Mortal Responsibility
+---
+layout:     post
+title:      The Kids' Mortal Responsibility
+---
 
 > Paying attention and being safe is everybody's responsibility.
 

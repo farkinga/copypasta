@@ -1,4 +1,7 @@
-# Drivers hate driving
+---
+layout:     post
+title:      Drivers hate driving
+---
 
 People will generally tell you they like driving.
 
@@ -34,4 +37,3 @@ Ask any Toronto driver:
 - Do you like your commute?
 - Do you think traffic levels are comfortable?
 - Do you think car insurance rates are reasonable?
-

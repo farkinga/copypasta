@@ -1,4 +1,7 @@
-# That Lane should be Mine
+---
+layout:     post
+title:      That Lane should be Mine
+---
 
 I do understand the longing for a roadway unimpeded by other self-similar vehicles.
 
