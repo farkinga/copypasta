@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Artificial Interview with Bill-212
+title:      Artificial Interview with Bill 212
 ---
 
-The following is an "Artificial Interview" with an AI Language Model that was given the fulltext of Ontario Bill-212.
+The following is an "Artificial Interview" with an AI Language Model that was given the fulltext of Ontario Bill 212.
 The fulltext of Bill 212 was extracted from the online PDF using `docling`.
 The interview was conducted using a variation of a language model called `Mistral Nemo`.
 The language model was provided with Bill 212 fulltext before the interview questions ("context injection").
