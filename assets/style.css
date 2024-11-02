@@ -43,16 +43,10 @@ footer {
   color: white;
 }
 
-.wrapper {
-  display: flex;
-}
-
-.post {
-  margin: 1em;
-}
-
 .post-content, .page-content {
   font-size: 1.2em;
+  margin: 2em auto;
+  max-width: 50em;
 }
 
 img {
