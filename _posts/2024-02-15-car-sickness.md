@@ -1,4 +1,7 @@
-# Car Sickness
+---
+layout:     post
+title:      Car Sickness
+---
 
 Toronto still suffers from a mass delusion that has unreasonably placed too much importance on cars, car drivers, and car infrastructure.
 

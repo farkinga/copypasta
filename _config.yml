@@ -6,7 +6,7 @@ twitter_username:
 github_username: farkinga
 
 include: ["_pages", "_root"]
-exclude: ["docs", "Readme.md", "Todo.md", "Makefile", "vendor", "Gemfile", "Gemfile.lock"]
+exclude: ["docs", "Readme.md", "Todo.md", "Makefile", "vendor", "Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Build settings
 gems:

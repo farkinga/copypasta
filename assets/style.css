@@ -43,14 +43,14 @@ footer {
   color: white;
 }
 
-/* .page-content {
-  display: flex;
-} */
-
 .wrapper {
   display: flex;
 }
 
 .post {
   margin: 1em;
+}
+
+.post-content, .page-content {
+  font-size: 1.2em;
 }
