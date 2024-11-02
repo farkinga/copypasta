@@ -33,25 +33,25 @@ Here are a few pictures of people driving trucks in Amsterdam, which is often to
 
 ### Beer delivery truck in Amsterdam
 
-https://www.electrive.com/wp-content/uploads/2021/07/heineken-amsterdam-bier-lkw-01.jpg
+![Beer delivery truck](https://www.electrive.com/wp-content/uploads/2021/07/heineken-amsterdam-bier-lkw-01.jpg)
 
 Sure, it's not an 18-wheeler, but somehow life finds a way.
 
-### Ambulance in Amsterdam 
+### Ambulance in Amsterdam
 
-https://i.ytimg.com/vi/kgkbiYiPZDY/maxresdefault.jpg
+![Ambulance](https://i.ytimg.com/vi/kgkbiYiPZDY/maxresdefault.jpg)
 
 You think street car tracks or a little concrete curb is going to wreck society? Pathetic. Ambulances eat curbs for breakfast.
 
 ### Fire truck in Amsterdam
 
-https://c8.alamy.com/comp/PG6DA4/fire-department-truck-at-amsterdam-the-netherlands-2018-PG6DA4.jpg
+![Fire truck](https://c8.alamy.com/comp/PG6DA4/fire-department-truck-at-amsterdam-the-netherlands-2018-PG6DA4.jpg)
 
 They said it couldn't be done - and they were wrong. In fact, there IS room for fire trucks.
 
 ### Multi-modal Delivery in Amsterdam
 
-https://thumbs.dreamstime.com/z/amsterdam-holland-august-worker-thuisbezorgd-home-delivery-company-food-drink-easy-to-notice-them-showy-166862445.jpg
+![Multi-modal Delivery](https://thumbs.dreamstime.com/z/amsterdam-holland-august-worker-thuisbezorgd-home-delivery-company-food-drink-easy-to-notice-them-showy-166862445.jpg)
 
 Of course, there are bicycle couriers in Amsterdam. But what's that? A delivery van in Amsterdam? Yes. There is room
 

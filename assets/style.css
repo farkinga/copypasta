@@ -54,3 +54,5 @@ footer {
 .post-content, .page-content {
   font-size: 1.2em;
 }
+
+img {max-width:100%;}
