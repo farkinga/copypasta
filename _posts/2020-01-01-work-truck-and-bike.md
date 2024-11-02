@@ -1,4 +1,9 @@
-# Cyclists and Commercial Drivers can agree: traffic has ruined Toronto
+---
+layout:     post
+title:      Do you expect me to bring my work tools on a bike?
+---
+
+## Cyclists and Commercial Drivers can agree: traffic has ruined Toronto
 
 Do you enjoy sharing the road with other Toronto drivers? Do you like driving on the 401, which is frequently ranked as the worst highway in North America? Do you actually like to drive 15 km/h during rush hour on the DVP?
 

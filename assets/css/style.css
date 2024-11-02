@@ -42,3 +42,15 @@ footer {
   background-color: #333;
   color: white;
 }
+
+/* .page-content {
+  display: flex;
+} */
+
+.wrapper {
+  display: flex;
+}
+
+.post {
+  margin: 1em;
+}
